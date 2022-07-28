@@ -10,6 +10,7 @@ body {
 
 .carousel-caption {
     bottom: 5rem;
+    height: 40vh;
 }
 
 .dark-1 {
