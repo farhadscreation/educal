@@ -1,0 +1,40 @@
+/* colors & font family*/
+* {
+    font-family: 'Poppins', sans-serif !important;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.carousel-img {
+    height: 80vh;
+    object-fit: cover;
+}
+
+.carousel-caption {
+    bottom: 5rem;
+}
+
+.dark-1 {
+    color: #1D1D1D;
+}
+
+.dark-2 {
+    color: #4A4A4A;
+}
+
+.dark-3 {
+    color: #777777;
+}
+
+.dark-5 {
+    background-color: #0e1133;
+}
+
+.dark-7 {
+    color: #F4F4F4;
+}
+
+.ex-bg {
+    background-color: #F4FAFD;
+}
